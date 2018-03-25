@@ -1,2 +1,2 @@
 # faces-project
-Singularity image for the Faces project
+Singularity recipe for the Faces project
